@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SlideShowImage1\SlideShowImage1\bin\Debug\SlideShowImage1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\bin\Debug\SlideShowImage1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\bin\Debug\SlideShowImage1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SlideShowImage1\SlideShowImage1\obj\Debug\SlideShowImage1.pdb
